@@ -1,0 +1,292 @@
+*{
+    margin: 0;
+    padding: 10px;
+}
+body {
+    height: 100vh;
+    background-color: rgb(241, 234, 234);
+    
+}
+
+.navbar{
+    font-family: 'poppins',sans-serif;
+    /* margin: 20px; */
+    /* padding: 10px; */
+    /* box-sizing: border-box; */
+    /* outline: 50px;border: 20px; */
+    text-transform: capitalize;
+     text-align: center;
+     overflow-x: hidden;
+    
+}
+
+h2{
+    text-align:left;
+    padding: 8px;
+    margin-bottom: -8%;
+    margin-top: -7%;
+    margin-left: 7%;
+    
+   
+
+}
+
+button{
+ color: black;
+    text-align: right;
+    background-color:rgb(73, 160, 145);
+    font-size: larger; 
+    border-radius: 3px;
+    margin-top: -90%;
+    /* margin-bottom: -10px;  */
+    margin-left: 80%;
+    /* margin-bottom: 70%; */
+    
+    }
+    .images{
+        margin-left: 60%;
+        margin-top: 10%;
+
+    
+    }
+    .pa1{
+        font-size: 40px;
+        margin-top: -30%;
+        color: orange;
+        margin-left: 6%;
+    }
+    .pal2{
+        font-size: 40px;
+        margin-top: -7%;
+        margin-left: 18%;
+        color: #00A3AC;
+    }
+    h1{
+        text-align: left;
+        font-size: 30px;
+        margin-left: 6%;
+
+    }
+    p{
+        text-align: left;
+        font-size: 15px;
+        margin-left:6%;
+    }
+    h3{
+    text-align: left;
+    background-color:rgb(73, 160, 145);
+    width: 11%;
+    border-radius: 3px;
+    height: 30px;
+    margin-top: 20px;
+    margin-left: 7%;
+}
+h4{
+    text-align: center;
+    margin-top: -4%;
+    margin-left:9% ;
+}
+h5{
+    text-align: left;
+    margin-top: -1%;
+    margin-left: 27%;
+}
+h6{
+    text-align: left;
+    margin-top:-5% ;
+    margin-left: 26%;
+}
+h4{
+margin-right: 56%;
+}
+.container1{
+    display: flex;
+    background-color:white;
+    height: 210px;
+    border: solid beige;
+
+}
+.pat1{
+    margin-left: 7%;
+    margin-bottom: -5%;
+
+}
+.pat2
+{
+    margin-left: 17%;
+    height: 20px;
+    margin-bottom: 30%;
+}
+.pat3{
+    margin-left:23% ;
+    height: 20%;
+    margin-bottom: -20%;
+}
+.container2{
+    display: flex;
+    background-color: white;
+
+}
+.pat4{
+    margin-left: 5%;
+    margin-top: 1%;
+}
+.pat5
+{
+    margin-left: -3%;
+    height: 20px;
+    margin-top:-5%;
+}
+.pat6{
+    margin-left:-2%;
+    height: 20%;
+    margin-top: -3%;
+}
+.pat7 h1{
+    margin-left:90% ;
+    margin-top:8%;
+}
+.pap{
+    margin-bottom: 1%;
+    margin-left: 5%;
+    background-color: white;
+    height: 300px;
+    
+}
+.pap h1{
+    margin-bottom: -15%;
+    margin-left: 20%;
+}
+.pap p{
+    margin-left: 20%;
+    margin-top: 15%;
+}
+.sub{
+    /* background-color:lightcyan; */
+    border-radius: 1px;
+    margin-top: 35%;
+
+}
+.login{
+    margin-left: 25%;
+    border: 2px  solid blue;
+    background-color:rgb(67,160,145);
+    width: 40%;
+    margin-top: -35%;
+    height: 15%;
+    border-radius: 20px;
+    font-size: 30px;
+
+}
+#subscribe{
+    padding: 2%;
+    margin-left: 30%;
+    background-color: blue;
+    border-radius: 1px;
+}
+.last{
+    background-color: white;
+    height: 400px;
+}
+.design{
+    height: 250px;
+    background-color:rgb(238,249,252);
+    margin-top: 12%;
+    margin-left:15% ;
+}
+.design p{
+    margin-left: -9%;
+}
+.marketp{
+    margin-left:-9% ;
+   ;
+}
+.dev{
+    height: 250px;
+    background-color: rgb(73,160,147);
+    margin-top: 12%;
+    /* margin-left:-6%; */
+}
+.market{
+    height: 250px;
+    background-color: rgb(238,249,252);
+    margin-top: 12%;
+    margin-left: -3%;
+}
+.image2{
+    margin-left: -3%;
+    margin-top: -32%;
+}
+.last1{
+    background-color: white;
+    height: 700px;
+     display: flex; 
+     /* margin-top: %; */
+}
+.last1 p{
+    text-align: center;
+}
+.last1 h1{
+    text-align: center;
+    margin-bottom: 20%;
+}
+
+.how{
+    margin-left: 65%;
+    margin-top:-28% ;
+}
+.serv{
+    margin-left: 30%;
+    margin-bottom: -14%;
+}
+.icon1{
+    margin-left: 10%;
+    margin-top:-1%;
+}
+.icon2{
+    margin-top: 9%;
+}
+.icon3{
+    margin-top: 9%;
+}
+.color{
+    background-color:white;
+}
+.make{
+    margin-left:66% ;
+    margin-top: 5%;
+}
+.full{
+margin-left:57% ;
+margin-bottom: 6%;
+}
+.tech{
+margin-left: 57%;
+margin-top:-6% ;
+
+}
+.them{
+margin-left: 57%;
+margin-top: -1%;
+}
+.image3{
+    margin-left: 50%;
+    margin-top: -10%;
+}
+.name{
+    margin-left: -2%;
+    margin-top: -20%;
+}
+.Message h4{
+    margin-left:-28%;
+    margin-top: -3%;
+}
+.name h6{
+    margin-left: 7%;
+}
+.t{
+    margin-left: 5%;
+}
+.w{
+    margin-left:4% ;
+}
